@@ -1,6 +1,6 @@
 # MultiLanguageLearning
 
-多语言学习
+多语言学习，c、golang、java、js、lua、python、rust
 
 ## 第一个程序
 
