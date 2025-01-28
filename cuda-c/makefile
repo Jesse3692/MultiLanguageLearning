@@ -3,3 +3,9 @@ build:
 
 run: build
 	./$(module)
+
+clean:
+	rm $(module)
+
+code:
+	code $(module).cu
